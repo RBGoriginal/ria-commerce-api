@@ -1,0 +1,16 @@
+com\rbg\coletaindexabusca\shared\enums\StoreEnum.class
+com\rbg\coletaindexabusca\adapter\controllers\SearchController.class
+com\rbg\coletaindexabusca\core\ports\IIndexService.class
+com\rbg\coletaindexabusca\core\services\SearchService.class
+com\rbg\coletaindexabusca\core\ports\ICollectService.class
+com\rbg\coletaindexabusca\core\services\CollectService.class
+com\rbg\coletaindexabusca\shared\responses\ProductResponseDTO.class
+com\rbg\coletaindexabusca\shared\filters\ProductFilterDTO.class
+com\rbg\coletaindexabusca\shared\Utils\DateUtils.class
+com\rbg\coletaindexabusca\core\ports\ISearchService.class
+com\rbg\coletaindexabusca\core\services\IndexService.class
+com\rbg\coletaindexabusca\ColetaIndexaBuscaApplication.class
+com\rbg\coletaindexabusca\adapter\controllers\CollectController.class
+com\rbg\coletaindexabusca\shared\enums\ProductEnum.class
+com\rbg\coletaindexabusca\shared\responses\ProductResponseDTO$ProductResponseDTOBuilder.class
+com\rbg\coletaindexabusca\adapter\controllers\IndexController.class

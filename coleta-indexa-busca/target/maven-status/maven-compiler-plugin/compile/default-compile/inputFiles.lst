@@ -1,0 +1,15 @@
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\core\services\IndexService.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\core\ports\IIndexService.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\shared\enums\ProductEnum.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\core\services\CollectService.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\shared\responses\ProductResponseDTO.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\core\services\SearchService.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\shared\enums\StoreEnum.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\shared\filters\ProductFilterDTO.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\adapter\controllers\IndexController.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\core\ports\ISearchService.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\ColetaIndexaBuscaApplication.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\core\ports\ICollectService.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\shared\Utils\DateUtils.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\adapter\controllers\CollectController.java
+E:\RBG\PUC\7° Período\Recuperação de Informação na Web e Redes Sociais\Trabalho\API\coleta-indexa-busca\src\main\java\com\rbg\coletaindexabusca\adapter\controllers\SearchController.java
